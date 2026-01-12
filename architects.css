@@ -1,0 +1,13 @@
+.head-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.head-container ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+.head-container ul li a{
+    text-decoration: none;
+}
